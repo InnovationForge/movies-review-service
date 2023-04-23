@@ -1,5 +1,5 @@
 # Movies Review Service (MRS)
-`movies-review-service` is a weather rest api application that provides information about the latest movie releases, reviews, ratings, and recommendations.
+`movies-review-service` is a rest api application that provides information about the latest movie releases, reviews, ratings, and recommendations.
 
 ## MRS Maven Project Structure
 MRS Rest API application is a multi-module Maven project that contains more than one module or sub-project. The main benefit of using a multi-module Maven project is that it allows you to divide a large project into smaller, more manageable modules. Each module can have its own dependencies, build configurations, and release cycles, which makes it easier to manage and maintain the project `movies-review-service`.  <br>Here is the maven project structure : 
