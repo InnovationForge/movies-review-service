@@ -4,7 +4,7 @@ A movie review API that provides information about the latest movie releases, re
 ## MRS Solution design overview
 Developing a movie review service that provides information about the latest movie releases, reviews, ratings, and recommendations can be an exciting project. Here's a high-level outline of the steps you can follow to implement the desired features:
 
-* **Data Modeling**: Design the data models for your application. This might include entities like Movie, Genre, Actor, Review, Rating, and any other related entities you may need. Consider the relationships between these entities.
+* **Data Modeling**: Design the data models for your application. This might include entities like **Movie**, **Genre**, **Actor**, **Review**, **Rating**, and any other related entities you may need. Consider the relationships between these entities.
 * **Data Source Selection**: Choose a movie database or API that provides movie information, including details like titles, release dates, genres, cast, and reviews. Popular options include IMDb API, The Movie Database (TMDb), or OMDb API. Register for an API key and familiarize yourself with their documentation.
 * **Integration with Movie Database API**: Integrate your application with the chosen movie database API. Implement functionality to fetch movie details, including plot summaries, cast information, and user reviews.
 * **Latest Movie Releases**: Display information about the latest movie releases, including release dates, genres, and ratings. Use the movie database API to retrieve and present this information.
